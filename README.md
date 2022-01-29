@@ -17,6 +17,8 @@ python -m pip install --upgrade pip && python -m pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
+### Open [PlayGround](http://127.0.0.1:8000/graphql)
+
 
 ### Usage
 
